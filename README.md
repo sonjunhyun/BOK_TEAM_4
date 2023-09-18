@@ -29,17 +29,9 @@
 
 ## 💻 프로젝트 개발 환경
 
-**Python 3.8.11**
-
-![image](https://github.com/sesac-2023/BOK_TEAM_4/assets/118335520/552e8333-71aa-4776-84d5-ffff35c2d365)
-
-
-**Visual Studio Code 1.82.0**
-
-![ikysur95osy0deokuuji](https://github.com/sesac-2023/BOK_TEAM_4/assets/118335520/acc516d8-c0e6-4883-be74-0a1779a24b62)
-
-
-**Colab**
-
-![Untitled](https://github.com/sesac-2023/BOK_TEAM_4/assets/118335520/a0844ab9-57b4-4969-abcf-4066b7a45bd4)
+<div align=left>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+</div>
 
