@@ -22,7 +22,8 @@
 
 데이터 분석 기획, 데이터 수집, 데이터 전처리, 모델링 및 감성분석, 상관관계 분석 총 5단계에 걸쳐 진행함
 
-![제목을 입력해주세요_-003 (2).jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7590a07e-504e-44d5-a3d7-9f169fb18ed1/7d15b160-1563-4650-aa8d-428e2ba32ed7/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-003_(2).jpg)
+![제목을 입력해주세요_-003 (2)](https://github.com/sesac-2023/BOK_TEAM_4/assets/118335520/775d8338-2ebc-4d68-b98f-0096e7efb343)
+
 
 ---
 
@@ -30,12 +31,15 @@
 
 **Python 3.8.11**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7590a07e-504e-44d5-a3d7-9f169fb18ed1/d027dc8c-079e-4be0-a675-044f28908030/image.png)
+![image](https://github.com/sesac-2023/BOK_TEAM_4/assets/118335520/552e8333-71aa-4776-84d5-ffff35c2d365)
+
 
 **Visual Studio Code 1.82.0**
 
-![ikysur95osy0deokuuji.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7590a07e-504e-44d5-a3d7-9f169fb18ed1/bdb5913e-6861-441a-9d02-092d7d2c083d/ikysur95osy0deokuuji.png)
+![ikysur95osy0deokuuji](https://github.com/sesac-2023/BOK_TEAM_4/assets/118335520/acc516d8-c0e6-4883-be74-0a1779a24b62)
+
 
 **Colab**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/7590a07e-504e-44d5-a3d7-9f169fb18ed1/d2db72ba-9cfe-4520-a489-e9221f17bbfd/Untitled.png)
+![Untitled](https://github.com/sesac-2023/BOK_TEAM_4/assets/118335520/a0844ab9-57b4-4969-abcf-4066b7a45bd4)
+
